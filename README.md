@@ -43,6 +43,8 @@ Functionality outlines interactive components and user actions within the design
 
 #### What Type of Wireframe is Here?  
 
+[Link to Figma](https://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8Z/Project-Airbnb?node-id=1-2&p=f&t=oRhVDMVnI9XRzTCc-0)
+
 - Since it includes **real text, images, and design elements**, then it is a **high-fidelity wireframe**. 
 
 ---
